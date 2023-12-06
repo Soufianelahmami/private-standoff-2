@@ -31,11 +31,11 @@
 
   
  "more_apps_info":[
-  {"name":"ЧИТЫ НА СТАНДОФФ 0.26.0 совет ","package_name":"com.trailerstandoffgame.playerelper","icon":"https://play-lh.googleusercontent.com/jJU-hctjINw_C_KGzWnUfWTYbPQQHVpgjy10q_B8z8IvIx_R0WVnmVVp6LA9n_PxzbQF=w240-h480-rw"},
+  {"name":"ЧИТЫ НА СТАНДОФФ 0.26.0 совет ","package_name":"com.modmenustandoff.playersmenustan","icon":"https://play-lh.googleusercontent.com/jJU-hctjINw_C_KGzWnUfWTYbPQQHVpgjy10q_B8z8IvIx_R0WVnmVVp6LA9n_PxzbQF=w240-h480-rw"},
   {"name":"ЧИТЫ НА СТАНДОФФ 2
-","package_name":"com.trailerstandoffgame.playerelper","icon":"https://i.ytimg.com/vi/01zrkph00sc/maxresdefault.jpg"},
+","package_name":"com.modmenustandoff.playersmenustan","icon":"https://i.ytimg.com/vi/01zrkph00sc/maxresdefault.jpg"},
   {"name":"ЧИТЫ НА СТАНДОФФ 0.26.0
- ","package_name":"com.trailerstandoffgame.playerelper","icon":"https://i.ytimg.com/vi/suVtMV5T2wA/maxresdefault.jpg"}
+ ","package_name":"com.modmenustandoff.playersmenustan","icon":"https://i.ytimg.com/vi/suVtMV5T2wA/maxresdefault.jpg"}
    ],
 
 "download_dialog_txt":"download text from server",
