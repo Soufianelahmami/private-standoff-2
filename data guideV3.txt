@@ -24,10 +24,10 @@
 "yandex_native":"R-M-2713975-2",
 "yandex_reward":"R-M-2713975-4",
   
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"",
+"vungle_appid":"658d94343acb6fcb70090005",
+"vungle_inter":"DEFAULT-7177418",
+"vungle_banner":"BANNER-5297860",
+"vungle_reward":"REWARDS-8289131",
 
   
   "more_apps_info":[
@@ -37,9 +37,9 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
 "native_network_choice":"yandex"
   
 
